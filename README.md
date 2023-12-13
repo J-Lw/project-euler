@@ -1,0 +1,2 @@
+# project-euler
+Computational mathematics.
