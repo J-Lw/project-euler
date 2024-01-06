@@ -2,15 +2,16 @@
 ///
 /// # p:
 /// - Find the largest prime factor of 600851475143.
-pub fn find_lpf() -> i32 { 
+pub fn find_lpf() -> i32 {
+    
 }
 
 #[cfg(test)]
 mod tests {
-    use super::;
+    use super::*;
 
     #[test]
     fn test() {
-        println!("{}", );
+        println!("{}", find_lpf());
     }
 }
